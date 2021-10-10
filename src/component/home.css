@@ -1,0 +1,40 @@
+.home_body {
+    margin-left: 16%;
+    padding: 40px;
+    height: 100%;
+    width:85%;
+    float: auto;
+    background-color: rgb(213, 243, 241);
+    position: fixed;
+    overflow: auto;
+}
+
+
+.img_1 {
+    display: inline;
+    padding: 10px;
+}
+.img_2 {
+    display: inline;
+    padding: 10px;
+}
+.img_3 {
+    display: inline;
+    padding: 10px;
+}
+
+.img_4 {
+    display: inline;
+    padding: 10px;
+}
+
+.candidate_name {
+    display: inline;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+h3 {
+    font-weight: bolder;
+}
+

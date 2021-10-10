@@ -1,0 +1,34 @@
+.navigation {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width:15%;
+    background-color: rgb(68, 199, 122);
+    position: fixed;
+    text-decoration: none;
+}
+
+.nav_postion {
+ margin-top: 40%;
+ padding: 15%;
+}
+
+.navbars {
+    border-radius: 2%;
+    color: white;
+    padding: 6%;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    font-size: x-large;
+    text-decoration: none;
+    flex-direction: column;
+    display: block;
+
+}
+a:hover {
+    font-weight: bolder;
+    color: white ;
+}

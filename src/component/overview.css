@@ -1,0 +1,9 @@
+.overview_body {
+    margin-left: 16%;
+    padding: 2px;
+    height: 100%;
+    width:85%;
+    float: auto;
+    background-color: whitesmoke;
+    position: fixed;
+}

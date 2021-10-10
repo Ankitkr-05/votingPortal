@@ -1,0 +1,71 @@
+.nomination_body {
+    margin-left: 15%;
+    padding: 2px;
+    height: 100%;
+    width:85%;
+    float: auto;
+    background-color: rgb(245, 236, 230);
+    position: fixed;
+    overflow: scroll;
+}
+
+form {
+    margin-top: 6%;
+    border-radius: 10px;
+    border: 3px solid grey;
+    margin-left: 18%;
+    width: 60%;
+    padding: 10px;
+}
+
+
+.n_row {
+    margin-top: 1%;
+    width: 100%;
+    padding: 5px;
+    margin-left: 6%;
+    border-radius: 10px;
+    border: 0px solid grey;
+    
+}
+ .n_col {
+    position: relative;
+    padding: 3%;
+    display: inline;
+    font-size: larger;
+    font-weight: bold;
+
+ }
+ .forn_input {
+    padding: 10px;
+    width: max-content;
+    font-size: large;
+    border-radius: 10px;
+ }
+ .btn_submit {
+    padding: 6px;
+    color: white;
+    width: 76px;
+    font-size: large;
+    margin-left: 24%;
+    background-color:blue;
+    border-radius: 10px;
+} 
+ .btn_reset {
+     padding: 6px;
+     color:white;
+     font-size: large;
+     width: 76px;
+     background-color:blue;
+     border-radius: 10px;
+ } 
+
+ .btn_submit:hover {
+    background-color:green;
+    font-size: large;
+ }
+
+ .btn_reset:hover {
+    background-color: red;
+    font-size: large;
+ }
