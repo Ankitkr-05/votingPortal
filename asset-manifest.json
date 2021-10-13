@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/votingPortal/static/css/main.d9bedae0.chunk.css",
-    "main.js": "/votingPortal/static/js/main.c4e87736.chunk.js",
-    "main.js.map": "/votingPortal/static/js/main.c4e87736.chunk.js.map",
+    "main.js": "/votingPortal/static/js/main.8555884d.chunk.js",
+    "main.js.map": "/votingPortal/static/js/main.8555884d.chunk.js.map",
     "runtime-main.js": "/votingPortal/static/js/runtime-main.006739e2.js",
     "runtime-main.js.map": "/votingPortal/static/js/runtime-main.006739e2.js.map",
-    "static/js/2.ac236db1.chunk.js": "/votingPortal/static/js/2.ac236db1.chunk.js",
-    "static/js/2.ac236db1.chunk.js.map": "/votingPortal/static/js/2.ac236db1.chunk.js.map",
+    "static/js/2.6cae5c6a.chunk.js": "/votingPortal/static/js/2.6cae5c6a.chunk.js",
+    "static/js/2.6cae5c6a.chunk.js.map": "/votingPortal/static/js/2.6cae5c6a.chunk.js.map",
     "index.html": "/votingPortal/index.html",
-    "precache-manifest.17c70d806584f6b4adb4e76deb2fcecb.js": "/votingPortal/precache-manifest.17c70d806584f6b4adb4e76deb2fcecb.js",
+    "precache-manifest.392c8c3d191f3685f1e7c7eca7a1951e.js": "/votingPortal/precache-manifest.392c8c3d191f3685f1e7c7eca7a1951e.js",
     "service-worker.js": "/votingPortal/service-worker.js",
     "static/css/main.d9bedae0.chunk.css.map": "/votingPortal/static/css/main.d9bedae0.chunk.css.map",
-    "static/js/2.ac236db1.chunk.js.LICENSE.txt": "/votingPortal/static/js/2.ac236db1.chunk.js.LICENSE.txt",
+    "static/js/2.6cae5c6a.chunk.js.LICENSE.txt": "/votingPortal/static/js/2.6cae5c6a.chunk.js.LICENSE.txt",
     "static/media/amit_shah.jpg": "/votingPortal/static/media/amit_shah.71d778ee.jpg",
     "static/media/bjp.png": "/votingPortal/static/media/bjp.0978e1e9.png",
     "static/media/congress.png": "/votingPortal/static/media/congress.52ec6c4c.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.006739e2.js",
-    "static/js/2.ac236db1.chunk.js",
+    "static/js/2.6cae5c6a.chunk.js",
     "static/css/main.d9bedae0.chunk.css",
-    "static/js/main.c4e87736.chunk.js"
+    "static/js/main.8555884d.chunk.js"
   ]
 }
