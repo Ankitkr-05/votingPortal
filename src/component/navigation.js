@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 // import "react-bootstrap";
 import "./navigation.css";
+import { Link } from "react-router-dom";
 
 export default class Navbar extends Component {
     render() {
@@ -8,16 +9,16 @@ export default class Navbar extends Component {
         <div className="navigation">
         <div className="nav_postion">
         <nav className="navbars">
-          <a href="/">Home</a>
+          <Link to="/">Home</Link>
         </nav>
         <nav className="navbars">
-        <a href="/nomination">Nomination</a>
+        <Link to="/nomination">Nomination</Link>
         </nav>
         <nav className="navbars">
-        <a href="/voting">Voting</a>
+        <Link to="/voting">Voting</Link>
         </nav>
         <nav className="navbars">
-        <a href="/overview">Overview</a>
+        <Link to="/overview">Overview</Link>
         </nav>     
     </div>
     </div>
